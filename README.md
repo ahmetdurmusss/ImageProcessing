@@ -45,4 +45,3 @@ pip install opencv-python numpy matplotlib
 - Görseller ilgili materyal/ klasörlerinde yer almaktadır.
 - İçerikler eğitim ve öğrenim amaçlı hazırlanmıştır.
 
-```
