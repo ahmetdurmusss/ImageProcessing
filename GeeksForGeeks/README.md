@@ -45,6 +45,7 @@ Python ortamı için aşağıdaki kütüphaneler gereklidir:
 
 ```bash
 pip install opencv-python numpy matplotlib
+```
 
 📜 Kaynak
 Bu çalışmalar, GeeksForGeeks OpenCV Tutorial Serisi temel alınarak geliştirilmiştir.
