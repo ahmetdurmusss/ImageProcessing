@@ -36,9 +36,13 @@ Python ortamınızda aşağıdaki kütüphanelerin kurulu olması önerilir:
 
 ```bash
 pip install opencv-python numpy matplotlib
+
+
 ```
 
 📝 Notlar
-Tüm dosyalar .ipynb (Jupyter Notebook) veya .py formatındadır.
-Görseller ilgili materyal/ klasörlerinde yer almaktadır.
-İçerikler eğitim ve öğrenim amaçlı hazırlanmıştır.
+- Tüm dosyalar .ipynb (Jupyter Notebook) veya .py formatındadır.
+- Görseller ilgili materyal/ klasörlerinde yer almaktadır.
+- İçerikler eğitim ve öğrenim amaçlı hazırlanmıştır.
+
+```
