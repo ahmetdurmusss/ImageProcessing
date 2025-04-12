@@ -1,9 +1,3 @@
-
----
-
-## 📁 `klasor9/README.md`
-
-```
 # 📐 Kontur İşleme ve Şekil Analizi
 
 Bu klasör, OpenCV'nin kontur bulma özellikleri ve şekil analizine yönelik fonksiyonlarının uygulanmasına odaklanmaktadır. Görüntüler üzerinden kontur çıkarımı, alan hesaplama, moment alma gibi işlemler örneklendirilmiştir.
