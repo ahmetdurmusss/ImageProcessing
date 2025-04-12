@@ -48,5 +48,5 @@ pip install opencv-python numpy matplotlib
 ```
 
 📜 Kaynak
-Bu çalışmalar, GeeksForGeeks OpenCV Tutorial Serisi (https://www.geeksforgeeks.org/opencv-tutorial/) temel alınarak geliştirilmiştir.
+Bu çalışmalar, GeeksForGeeks OpenCV Tutorial Serisi ([https://www.geeksforgeeks.org/opencv-tutorial/](https://www.geeksforgeeks.org/opencv-python-tutorial/?ref=header_outind)) temel alınarak geliştirilmiştir.
 📎 İçerikler kişisel eğitim amaçlı derlenmiş olup, ticari kullanım durumlarında orijinal kaynağın lisans koşulları dikkate alınmalıdır.
